@@ -1,5 +1,3 @@
-#
-# Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226
 ## Agenda: Multi Master K8's Cluster Setup Using Kubeadm In AWS EC2 Ubuntu Servers
 ---
 ### What is Kubeadm ? 
@@ -342,4 +340,3 @@ kubectl get nodes
 
 ```
 ---
-# Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226
